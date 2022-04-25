@@ -1,7 +1,0 @@
-const now = moment();
-const currentDate = window.setInterval(function () {
-     $("#timestamp").text(now.format("dddd, MMMM Do YYYY, h:mm:ss "))}
-     ,1000);;
-
-
-     c
